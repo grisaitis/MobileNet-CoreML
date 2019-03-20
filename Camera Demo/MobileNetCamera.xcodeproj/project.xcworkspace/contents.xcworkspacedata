@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/matthijs/Documents/Study/Machine_Learning/Projects/CoreML/MobileNet+CoreML/Camera Demo/MobileNetCamera.xcodeproj">
+      location = "self:/Users/william/src/MobileNet-CoreML/Camera Demo/MobileNetCamera.xcodeproj">
    </FileRef>
 </Workspace>
